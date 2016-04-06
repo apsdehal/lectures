@@ -1,0 +1,24 @@
+.width--hundered {
+	width: 100%;
+}
+
+.color--white {
+	color: white;
+}
+
+.bg-color--black {
+	background-color: black;
+}
+
+.element--height-100 {
+	height: 100%;
+}
+
+.element--small {
+	height: 1em;
+	width: 1em;
+}
+
+/**
+ * We can do stuff like this all day, but let's move on
+ */
